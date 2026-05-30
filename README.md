@@ -1,2 +1,2 @@
 # springboot2.0
-this report contains spring boot code
+This repo contains basic spring boot code
